@@ -1,2 +1,3 @@
 # DharnaDemo
-This is my first Git Repository
+This is my Git Repository
+Athor - Dharna Imlay
